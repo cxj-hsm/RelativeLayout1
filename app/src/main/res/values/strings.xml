@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RelativeLayout</string>
+    <item name="aclock" type="id" />
+</resources>
